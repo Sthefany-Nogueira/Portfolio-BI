@@ -1,10 +1,10 @@
-# portfolio-bi
+# Portfolio-BI
 Portfólio de projetos de Business Intelligence
 # 🚀 Portfólio - Analista de Business Intelligence
 
 ## 👋 Sobre Mim
 Sou Sthefany Nogueira, analista de BI em formação com foco em Power BI, Excel e análise estatística. 
-Atualmente desenvolvendo habilidades em Power BI, Excel avançado e análise de dados.
+Atualmente desenvolvendo habilidades em Power BI, Excel avançado e Análise de dados.
 
 ## 🛠️ Habilidades Técnicas
 - **Visualização:** Power BI, Excel
@@ -15,26 +15,39 @@ Atualmente desenvolvendo habilidades em Power BI, Excel avançado e análise de 
 ## 📊 Projetos
 
 ### 📈 Dashboard de Resultados de um E-commerce - Power BI
+
 **Ferramentas:** Power BI, Power Query, DAX
+
 **Descrição:** Análise completa de performance de vendas com KPIs e métricas de crescimento.
+
 **Funcionalidades:**
 - 📊 KPIs de vendas e crescimento
 - 📅 Análise temporal e sazonalidade
-- 🏢 Performance por região e vendedor
+- 🏢 Performance por região, plataforma e categoria
+- 👤 Perfil do cliente por idade, região e renda 
 
-**📸 Screenshot:**
+**📸 Screenshots:**
 [Dashboard Vendas](Dash-Vendas.png)
-
 [Dashboard Perfil do Cliente](Dash-Perfil-Cliente.png) 
 
 **🔗 [Ver Projeto Completo](Desafio-BI-I.pbix)**
 
 ### 📉 Dashboard de Performance - Excel
+
 **Ferramentas:** Excel Avançado, Tabelas Dinâmicas, Fórmulas Avançadas.
+
 **Descrição:** Dashboard interativo para análise de performance operacional.
 
 ### ⚡ Exercícios Técnicos - Excel
 Coleção de exercícios avançados demonstrando domínio de fórmulas e análise.
+
+**📸 Screenshots:**
+[Super Exercicio I](SE-I.png)
+[Super Exercicio II](SE-II.png)
+
+**🔗 [Ver Exercício I Completo](Super-exercicio-I.xlsx)**
+**🔗 [Ver Exercício II Completo](Super-exercicio-II.xlsx)**
+
 
 ## 📫 Contato
 - LinkedIn: [www.linkedin.com/in/sthefany-s-milanelo-nogueira-873a761b4]
