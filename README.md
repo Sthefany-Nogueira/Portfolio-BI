@@ -23,7 +23,8 @@ Atualmente desenvolvendo habilidades em Power BI, Excel avançado e análise de 
 - 🏢 Performance por região e vendedor
 
 **📸 Screenshot:**
-![Dashboard Vendas](power-bi/projeto-vendas/screenshots/dashboard.png)
+![Dashboard Vendas]https://github.com/Sthefany-Nogueira/portfolio-bi/blob/b2d416542e9fc3f4970599e28e39ec9c20e99408/Dash-Vendas.png
+![Dashboard Perfil do Cliente] https://github.com/Sthefany-Nogueira/portfolio-bi/blob/b2d416542e9fc3f4970599e28e39ec9c20e99408/Dash-Perfil-Cliente.png
 
 **🔗 [Ver Projeto Completo](./power-bi/projeto-vendas/)**
 
