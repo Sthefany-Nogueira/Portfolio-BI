@@ -1,2 +1,127 @@
 Nome do arquivo: exercicios-excel/README.md
-          
+
+# 📊 E-commerce Predictive Analytics & Sales Dashboard
+
+![Dashboard Preview](Desafio-BI-I.pbix)
+
+## 📋 Descrição do Projeto
+Solução completa de Business Intelligence desenvolvida para um e-commerce, combinando análise preditiva de perfil de clientes com monitoramento de performance comercial em tempo real. O projeto integra múltiplas dimensões de análise para suporte à tomada de decisão estratégica.
+
+## 🎯 Objetivos do Desafio
+- **Prever tendências de vendas** baseadas no perfil do cliente
+- **Monitorar performance comercial** em tempo real
+- **Identificar clientes com maior potencial de conversão**
+- **Otimizar estratégias de marketing e logística**
+- **Analisar sazonalidade e padrões de consumo**
+
+## 📊 Métricas de Performance - Visão Completa
+
+### 👥 Perfil do Cliente
+- **Total de Clientes Analisados:** 17.042
+- **Ticket Médio Previsto:** R$ 8.240
+- **Distribuição por Faixa de Renda e Idade**
+
+### 💰 Performance Comercial
+- **Quantidade Total de Vendas**
+- **Valor Total com Frete**
+- **Valor Total sem Frete**
+- **Contagem de Vendas por Período**
+- **Ticket Médio Real**
+
+## 🔍 Dashboards Implementados
+
+### 📈 Dashboard de Perfil do Cliente
+- **Segmentação por Renda** (Até R$1.750 até Acima de R$10.000)
+- **Análise Demográfica** (18-20 até +50 anos)
+- **Distribuição Geográfica** por estado de origem
+- **Score de Potencial de Compra**
+
+### 🏪 Dashboard de Vendas & Performance
+- **Métricas Financeiras Principais**
+  - Valor total de vendas (com/sem frete)
+  - Quantidade de transações
+  - Eficiência logística
+
+- **Análise Geográfica Comercial**
+  - **Mapa do Brasil** com performance por estado
+  - Heatmap de concentração de vendas
+  - Identificação de regiões estratégicas
+
+- **Performance por Canal**
+  - **Canal de Venda**: Website, App Mobile, Marketplace
+  - Conversão por canal
+  - Ticket médio comparativo
+
+- **Análise por Categoria**
+  - **Departamento**: Eletrônicos, Moda, Casa, etc.
+  - **Categoria**: Subsegmentos dentro de cada departamento
+  - Contagem de vendas e receita por categoria
+  - Margem por linha de produto
+
+- **Análise Temporal**
+  - **Vendas por Mês** (contagem e valor)
+  - Sazonalidade e tendências
+  - Comparativo mensal (YoY, MoM)
+  - Previsão de demanda
+
+## 🛠 Metodologia de Análise
+
+### 1. **Integração de Dados**
+- Consolidação de dados de clientes e transações
+- Unificação de múltiplas fontes (CRM, ERP, Logística)
+- Padronização de métricas e dimensões
+
+### 2. **Modelagem Dimensional**
+- **Fato**: Vendas, Itens, Clientes
+- **Dimensões**: Tempo, Localização, Produto, Cliente
+- Hierarquias de produto (Departamento > Categoria)
+
+### 3. **Análise Preditiva**
+- Segmentação por clusters de comportamento
+- Previsão de demanda por categoria
+- Score de propensão à compra cruzada
+
+## 📈 Insights Estratégicos Identificados
+
+### 🎯 Otimização de Marketing
+- **Canais mais eficientes** por perfil demográfico
+- **Segmentos com maior ROI** em campanhas
+- **Timing ideal** para lançamentos por categoria
+
+### 💰 Gestão Comercial
+- **Categorias com maior giro** vs. maior margem
+- **Sazonalidade por departamento**
+- **Oportunidades de cross-selling** identificadas
+
+### 🚚 Logística e Operações
+- **Estados com maior volume** para otimização de estoque
+- **Impacto do frete** na conversão por região
+- **Padrões de consumo** por localização geográfica
+
+## 🚀 Como Utilizar os Dashboards
+
+### 1. **Análise Estratégica**
+- Acesse o **Dashboard de Perfil** para segmentação de clientes
+- Utilize o **Dashboard de Vendas** para monitoramento operacional
+- Combine filtros para análise cruzada
+
+### 2. **Tomada de Decisão**
+- **Aloque verba de marketing** baseado em performance por canal
+- **Ajuste estoque** conforme sazonalidade por categoria
+- **Otimize frete** baseado na distribuição geográfica
+
+### 3. **Previsões e Planejamento**
+- Estime demanda mensal por categoria
+- Preveja sazonalidade por perfil demográfico
+- Planeje campanhas baseado em histórico
+
+## 🔮 Próximas Etapas
+- [ ] Integração com API de fretes para cálculo em tempo real
+- [ ] Desenvolvimento de alertas de performance automáticos
+- [ ] Análise de cohort para retenção de clientes
+- [ ] Modelo de recomendação de produtos
+- [ ] Dashboard mobile para monitoramento em tempo real
+
+
+**Desenvolvido como parte do Desafio DNC - Análise Preditiva para E-commerce  
+*Power BI | Data Analytics | Predictive Modeling | Business Intelligence*
