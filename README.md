@@ -52,4 +52,4 @@ Coleção de exercícios avançados demonstrando domínio de fórmulas e anális
 ## 📫 Contato
 - LinkedIn: [www.linkedin.com/in/sthefany-s-milanelo-nogueira-873a761b4]
 - Email: [milanelli33@email.com]
-- Portfolio: [Link para este repositório]
+
