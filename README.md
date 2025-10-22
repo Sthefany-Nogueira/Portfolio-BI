@@ -14,7 +14,7 @@ Atualmente desenvolvendo habilidades em Power BI, Excel avançado e análise de 
 
 ## 📊 Projetos
 
-### 📈 Dashboard de Vendas - Power BI
+### 📈 Dashboard de Resultados de um E-commerce - Power BI
 **Ferramentas:** Power BI, Power Query, DAX
 **Descrição:** Análise completa de performance de vendas com KPIs e métricas de crescimento.
 **Funcionalidades:**
@@ -23,14 +23,14 @@ Atualmente desenvolvendo habilidades em Power BI, Excel avançado e análise de 
 - 🏢 Performance por região e vendedor
 
 **📸 Screenshot:**
-[Dashboard Vendas] Dash-Vendas.png
+[Dashboard Vendas](Dash-Vendas.png)
 
-[Dashboard Perfil do Cliente] Dash-Perfil-Cliente.png 
+[Dashboard Perfil do Cliente](Dash-Perfil-Cliente.png) 
 
-**🔗 [Ver Projeto Completo](./power-bi/projeto-vendas/)**
+**🔗 [Ver Projeto Completo](Desafio-BI-I.pbix)**
 
 ### 📉 Dashboard de Performance - Excel
-**Ferramentas:** Excel Avançado, Tabelas Dinâmicas, Power Query
+**Ferramentas:** Excel Avançado, Tabelas Dinâmicas, Fórmulas Avançadas.
 **Descrição:** Dashboard interativo para análise de performance operacional.
 
 ### ⚡ Exercícios Técnicos - Excel
